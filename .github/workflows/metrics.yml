@@ -1,0 +1,20 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:  # Cho phép chạy thủ công
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_followup: yes
+          plugin_habits: yes
+          plugin_lines: yes
