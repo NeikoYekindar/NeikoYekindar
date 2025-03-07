@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeikoYekindar&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeikoYekindar&layout=compact&theme=dark)
+![GitHub Metrics](https://github.com/NeikoYekindar/NeikoYekindar/blob/main/github-metrics.svg)
 
