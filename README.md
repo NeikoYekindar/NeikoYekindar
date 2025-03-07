@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Lam Thien Phat!
+# Lam Thien Phat
 ### 💻 Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Designer
 
 🔭 I’m currently working on **Android Development & IoT**
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 📱 Mobile: `Android (Java/Kotlin)`, `Flutter`
 - 🌍 Web: `React.js`, `Node.js`, `Express`
 - 🛠 Tools: `Docker`, `Kubernetes`, `OpenFaaS`, `MongoDB`
-- 🔬 AI/ML: `YOLOv11`, `TensorFlow`, `ARIMA`, `Fusion Network`
+- 🔬 AI/ML: `YOLOv8`, `TensorFlow`, `ARIMA`, `Fusion Network`
 
 ---
 ### 📊 GitHub Stats
