@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 ### 💻 Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Designer
 
 🔭 I’m currently working on **Android Development & IoT**
-🌱 I’m currently learning **FreeRTOS, YOLOv8, ARIMA modeling**
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
-💬 Ask me about **ESP32, Node.js, Machine Learning**
+🌱 I’m currently learning **Fusion Network, ARIMA modeling**
+📫 How to reach me:[Email](mailto:lamthienphat0810@gmail.com)
+💬 Ask me about **ESP32, Node.js, Machine Learning, Java, Python, C/C++, C#**
 
 ---
 ### 🚀 Tech Stack
-- 💻 Languages: `C++`, `Java`, `Python`, `JavaScript`
+- 💻 Languages: `C++`, `C#`, `Java`, `Python`, `JavaScript`,
 - 📱 Mobile: `Android (Java/Kotlin)`, `Flutter`
 - 🌍 Web: `React.js`, `Node.js`, `Express`
 - 🛠 Tools: `Docker`, `Kubernetes`, `OpenFaaS`, `MongoDB`
-- 🔬 AI/ML: `YOLOv8`, `TensorFlow`, `ARIMA`
+- 🔬 AI/ML: `YOLOv11`, `TensorFlow`, `ARIMA`, `Fusion Network`
 
 ---
 ### 📊 GitHub Stats
@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeikoYekindar&layout=compact&theme=dark)
 ![GitHub followers](https://img.shields.io/github/followers/NeikoYekindar?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/NeikoYekindar?style=social)
-![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
 
