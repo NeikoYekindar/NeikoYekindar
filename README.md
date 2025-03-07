@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 ### 🚀 Tech Stack
-- 💻 Languages: `C++`, `C#`, `Java`, `Python`, `JavaScript`,
+- 💻 Languages: `C++`, `C#`, `Java`, `Python`, `JavaScript`
 - 📱 Mobile: `Android (Java/Kotlin)`, `Flutter`
 - 🌍 Web: `React.js`, `Node.js`, `Express`
 - 🛠 Tools: `Docker`, `Kubernetes`, `OpenFaaS`, `MongoDB`
