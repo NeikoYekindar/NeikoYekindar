@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat-square&logo=nmap&logoColor=white)
 
 ### 🤖 AI/ML:
-![YOLOv8](https://img.shields.io/badge/YOLOv8-252525?style=flat-square&logo=darkreader&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-252525?style=flat-square&logo=darkreader&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![ARIMA](https://img.shields.io/badge/ARIMA-8A2BE2?style=flat-square)
 ![Fusion Network](https://img.shields.io/badge/Fusion%20Network-FF4081?style=flat-square&logo=ethereum&logoColor=white)
