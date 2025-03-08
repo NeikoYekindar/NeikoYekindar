@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 -->
 # Lam Thien Phat
 ### 💻 Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Designer
-
-🔭 I’m currently working on **Android Development & IoT**
-🌱 I’m currently learning **Fusion Network, ARIMA modeling**
-📫 How to reach me: [Email](mailto:lamthienphat0810@gmail.com)
-💬 Ask me about **ESP32, Node.js, Android, Arduino, Java, Python, C/C++, C#.**
-
 ---
 ### 🚀 Tech Stack
 ### 🔹 Languages: 
