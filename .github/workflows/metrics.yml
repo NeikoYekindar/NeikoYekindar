@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.neikos }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_followup: yes
